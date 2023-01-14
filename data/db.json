@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rose Water",
+      "price": 10,
+      "categoryType": "supermarket",
+      "description": "Al Tawoos Rose Water - 250 Ml",
+      "image": "https://user-images.githubusercontent.com/2805249/64069899-8bdaa180-cc97-11e9-9b19-1a9e1a254c18.png"
+    },
+    {
+      "id": 4,
+      "name": "Rose Water",
+      "price": 40,
+      "categoryType": "supermarket",
+      "description": "Al Tawoos Rose Water - 250 Ml",
+      "image": "https://user-images.githubusercontent.com/2805249/64069899-8bdaa180-cc97-11e9-9b19-1a9e1a254c18.png"
+    },
+    {
+      "id": 5,
+      "name": "product5",
+      "price": 50,
+      "categoryType": "fashion",
+      "description": "test category",
+      "image": "https://user-images.githubusercontent.com/2805249/64069899-8bdaa180-cc97-11e9-9b19-1a9e1a254c18.png"
+    },
+    {
+      "id": 6,
+      "name": "Big Super Sofa",
+      "price": 5000,
+      "categoryType": "home_office",
+      "description": "Big Super Sofa Bed From Big - Beige",
+      "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/04/014422/1.jpg?3836"
+    },
+    {
+      "categoryType": "supermarket",
+      "name": "chipsy",
+      "description": "Chipsy Pack / Cheese & Onion Set of 12",
+      "price": 15,
+      "image": "https://m.media-amazon.com/images/S/aplus-media/sota/6643144d-e5b7-4b8e-a618-1862bc118402.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "id": 7
+    },
+    {
+      "categoryType": "home_office",
+      "name": "Blanket",
+      "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/79/805922/1.jpg?2845",
+      "description": "Snooze Light Blanket - Dark Blue",
+      "price": 2000,
+      "id": 8
+    },
+    {
+      "name": "test",
+      "price": 10,
+      "description": "10",
+      "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/79/805922/1.jpg?2845",
+      "categoryType": "home_office",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "userName": "marwa",
+      "password": "1234"
+    },
+    {
+      "userName": "dealer",
+      "password": "12345"
+    }
+  ]
+}
